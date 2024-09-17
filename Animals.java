@@ -51,8 +51,8 @@ class Zoo{
         Animals elephant = new Elephant();
         elephant.makeSound();
 
-        Animals birds = new Bird();
-        birds.makeSound();
+        Animals bird = new Bird();
+        bird.makeSound();
 
     }
 }
